@@ -1,0 +1,4 @@
+python kadai1.py
+tsvを入力してくださいinput1.tsv
+python kadai2.py
+tsvを入力してくださいinput2.tsv
